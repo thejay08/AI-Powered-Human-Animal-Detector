@@ -70,8 +70,8 @@ Achieving 80% accuracy required careful selection of categories and thresholds. 
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/prashantsingh5/animal_and_person_detection.git
-   cd animal_and_person_detection
+   git clone https://github.com/thejay08/AI-Powered-Human-Animal-Detector.git
+   cd AI-Powered-Human-Animal-Detector
    ```
 
 2. Create a virtual environment (recommended):
