@@ -1,9 +1,5 @@
 # Human and Animal Detection System
 
-## 📹 Demo Video
-
-[Click to watch the demo video](Demo_Video.mp4)
-
 ## Overview
 This project implements an AI-based system to detect and classify humans and animals in images and videos. The system uses OpenAI's CLIP model for feature extraction and classification, adhering to the requirement of not using pre-trained models like YOLO or Faster R-CNN. The system is capable of:
 
